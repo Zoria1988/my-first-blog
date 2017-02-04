@@ -25,7 +25,7 @@ SECRET_KEY = '%v-eqmkv&)1+l4y)7u2qa$si$ytfx+!vg)6$+6oyl=!g&yvzz^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zoria1988.pythonanywhere.com']
 
 
 # Application definition
